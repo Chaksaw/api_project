@@ -1,0 +1,12 @@
+{
+    "routes": [
+        {
+            "path": "/users",
+            "target": "http://localhost:4001"
+        },
+        {
+            "path": "/orders",
+            "target": "http://localhost:4002"
+        }
+    ]
+}
